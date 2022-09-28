@@ -1,3 +1,8 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@1,8..144,200&display=swap');
+
+
+
 .App {
   text-align: center;
 }
@@ -35,4 +40,42 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.DivTotal {
+  background: linear-gradient(to bottom right, blue, pink);
+  width:100%;
+  height:1000px;
+}
+
+.imgVoiture{
+  padding: 20px 0;
+  width: 150px;
+  height: 200px;
+  border-radius: 50%;
+  margin-left: 680px;
+  
+  
+}
+.fullName1{
+  color:aliceblue !important;
+  font-size: 40px !important;
+
+}
+
+.data{
+  font-family: 'Roboto Serif', serif;
+  text-align: center;
+    font-size: 25px;
+    /* color:#FFFFFF; */
+    color: 	#000000;
+    padding: 20px 0;
+
+}
+
+.buttoncenter{
+  width: 100px;
+  margin: 50px 710px;
+  
 }
